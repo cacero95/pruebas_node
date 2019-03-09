@@ -1,0 +1,18 @@
+{
+  "name": "tablas-multiplicar",
+  "version": "1.0.0",
+  "description": "segun un una base, crea un archivo con la tabla de multilpicar de la base",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres acero",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
